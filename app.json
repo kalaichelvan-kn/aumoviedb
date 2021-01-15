@@ -1,0 +1,12 @@
+{
+  "name": "aumoviedb",
+  "displayName": "aumoviedb",
+  "expo": {
+    "name": "aumoviedb",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
